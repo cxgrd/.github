@@ -11,11 +11,11 @@ missing imports, or broken structural dependencies.
 
 
 ## Persistent repo intelligence
-AI agents mostly:
+### AI agents mostly:
 - have temporary context
 - limited session memory
 - have prompt-based understanding
-ContextGuard will maintain:
+### ContextGuard will maintain:
 - structural memory
 - dependency memory
 - architecture memory
