@@ -1,0 +1,10 @@
+<svg width="220" height="54" viewBox="0 0 220 54" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CXGRD">
+    <defs>
+        <linearGradient id="cxgrdGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#3b82f6" />
+        <stop offset="50%" stop-color="#8b5cf6" />
+        <stop offset="100%" stop-color="#22d3ee" />
+        </linearGradient>
+    </defs>
+    <text x="110" y="36" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="url(#cxgrdGradient)">CXGRD</text>
+</svg>
