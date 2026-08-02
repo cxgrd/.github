@@ -54,7 +54,7 @@ cxgrd check
 
 Watch the demo for cxgrd-cli here:
 
-[![CXGRD Demo]](https://youtu.be/eL8mkYsATFA)
+[CXGRD Demo](https://youtu.be/eL8mkYsATFA)
 
 ---
 
