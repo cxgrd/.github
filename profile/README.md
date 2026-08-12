@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cxgrd.com//cxgrdlogo.png" height=90 /><br>
+  <img src="https://www.cxgrd.com//cxgrdlogo.png" height=90 /><br>
   <p align="center">
     <img src="./assets/cxgrd-text.svg" width="800" alt="CXGRD">
   </p>
@@ -95,7 +95,7 @@ This persistent intelligence will help users write more architecturally accurate
 ---
 
 <p align="left" style="font-size: 20px; margin-top: 10px">
-  For more information, visit the <a href="https://cxgrd.com"> official website </a>,
+  For more information, visit the <a href="https://www.cxgrd.com"> official website </a>,
   or read the docs <a href="https://docs.cxgrd.com">here</a> .
 
 </p>
