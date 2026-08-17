@@ -88,8 +88,8 @@ This persistent intelligence will help users write more architecturally accurate
 
 <p align= "left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="34" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" alt="NextJS" height="34" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
 </p>
 
 ---
